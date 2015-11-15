@@ -1,0 +1,3 @@
+[submodule "blocks/sharing_cart"]
+	path = blocks/sharing_cart
+	url = https://github.com/edurenye/sharing_cart.git
